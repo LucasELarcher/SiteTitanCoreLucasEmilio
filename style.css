@@ -1,0 +1,311 @@
+table
+{
+    width: 100%;
+    height: 100vh;
+    border-collapse: collapse;
+}
+html
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+        font-family: "Bakbak One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+body
+{
+    margin: 0;
+}
+td
+{
+    width: 7.14%;
+    height: 10vh;
+}
+
+#partecima
+{
+    background-color: #031672;
+    
+}
+#rodape
+{
+    background-color: rgb(02, 06, 83);
+    height: 8%;
+    
+}
+#titulo
+{
+    font-size: 200%;
+    text-align: center;
+}
+.subtitulo
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+#fundo
+{
+    background-color: black;
+    background-image: url(FUNDOSITE.png);
+    width: 100%;
+    height: 10vh;
+    background-repeat: no-repeat;
+}
+#login
+{
+    text-align: right;
+}
+#logintxt
+{
+    text-align: left;
+    -ms-text-size-adjust: 2%;
+}
+#favoritos
+{
+    text-align: center;
+}
+#luaimg
+{
+    text-align: center;
+}
+
+#ytb
+{
+    text-align: right;
+}
+#ytbtxt
+{
+    text-align: left;
+    width: 1%;
+
+}
+#instaimg
+{
+    text-align: right;
+}
+#insta
+{
+    text-align: left;
+    width: 8%;
+}
+#logo
+{
+    width: 200%;
+    text-align: left;
+}
+#ttklogo
+{
+    text-align: right;
+    text-size-adjust: 4px;
+}
+#xlogo
+{
+    text-align: right;
+}
+.txtX
+{
+    text-align: right;
+}
+#espaco
+{
+    height: 1pc;
+}
+#qmsoms
+{
+    
+    text-align: center;
+    color: white;
+}
+.links
+{
+    color: white;
+}
+#hardwares
+{
+    text-align: center;
+}
+#contato
+{
+    text-align: center;
+}
+.procurar
+{
+    background-color: gray;
+    
+}
+#img1
+{
+    background-color: red;
+}
+.borda
+{
+    border: 5px solid white;
+    text-align: center;
+}
+.borda2
+{
+    border: 5px solid blue;
+    text-align: center;
+}
+#caixapesquisa
+{
+    width: 100%;
+    height: 100%;
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+}
+#categorias
+{
+    text-align: center;
+    
+}
+#placadvideo
+{
+    width: 100%;
+    
+}
+#placamae
+{
+    width: 100%;
+}
+.botao
+{
+    width: 100%;
+    height: 65%;
+    font-size: large;
+}
+#memoram
+{
+    width: 100%;
+}
+#cooler
+{
+    width: 100%;
+}
+#monitor
+{
+    width: 100%;
+}
+#outros
+{
+    width: 100%;
+}
+textarea
+{
+    text-align: left;
+    vertical-align: top;
+    resize: none;
+    width: 98.5%;
+    height: 100px;
+    padding: 5px;
+    background: transparent;
+    border: 1px solid white;
+    color: white; 
+}
+
+#email
+{
+    width: 90%;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+#nome
+{
+    width: 90%;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+#formulario
+{
+    background-image: url(formulario.png);
+    height: 8%;
+    width: 100%;
+    text-align: center;
+   
+}
+.botaoenviar
+{
+   background-color: #020653;
+   text-align: center;
+   color: white;
+   font-family: "Bakbak One", sans-serif;
+   font-size: larger;
+   width: 200px;
+}
+#assuntotxt
+{
+    margin-right: 0vh;
+    
+}
+#loginconta
+{
+    text-align: center;
+    font-size: 20px;
+    border: 5px solid cornflowerblue;
+    
+}
+#name
+{
+    width: 198px;
+    background-color: transparent;  
+    color: white;
+}
+#password
+{
+    width: 198px;
+    background-color: transparent;
+    color: white;
+}
+.botaoentrar
+{
+   background-color: #020653;
+   text-align: center;
+   color: white;
+   font-family: "Bakbak One", sans-serif;
+   font-size: large;
+   width: 100px;
+   margin-top: 4vh;
+}
+.logintxt
+{
+    text-align: center;
+    font-size: large;
+
+}
+#bordalogin
+{
+    border: 5px solid cornflowerblue;
+}
+#g1
+{
+    background-color: white;
+}
+#g2
+{
+    background-color: white;
+}
+#g3
+{
+    background-color: white;
+}
+#g4
+{
+    background-color: white;
+}
+#textopeca
+{
+    text-align: center;
+}
